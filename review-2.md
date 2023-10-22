@@ -15,9 +15,9 @@ La aplicación de lista de tareas con express es una clara muestra de que se pue
 ```
 https://github.com/mrestrepoj2/task-list-server
 ```
-2. Pasarse a la rama project-2
+2. Pasarse a la rama project-3
 ```
-git checkout project-2
+git checkout project-3
 ```
 3. Instalar dependencias
 ```
